@@ -1,5 +1,5 @@
 streamlit
 reportlab
-math
-Pillow
 numpy
+Pillow
+
